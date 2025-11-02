@@ -1,0 +1,25 @@
+{
+  "name": "web-scraping-tutor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanshika814/Web-Scraping-Tutor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanshika814/Web-Scraping-Tutor/issues"
+  },
+  "homepage": "https://github.com/Vanshika814/Web-Scraping-Tutor#readme",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "fs-extra": "^11.2.0",
+    "p-retry": "^7.1.0"
+  }
+}
